@@ -1,0 +1,5 @@
+cpp:
+    crow
+    nhlohmann_json
+    asio
+    cpp-httplib
